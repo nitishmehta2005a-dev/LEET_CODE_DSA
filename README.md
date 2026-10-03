@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0014-longest-common-prefix) |
 | [0875-koko-eating-bananas](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0875-koko-eating-bananas) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,4 +74,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Math
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
