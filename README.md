@@ -77,5 +77,10 @@
 ## Math
 |  |
 | ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
