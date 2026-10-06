@@ -46,6 +46,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0876-middle-of-the-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -82,5 +83,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
