@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0876-middle-of-the-linked-list](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
