@@ -14,6 +14,7 @@
 | [0001-two-sum](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Binary Search
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [0242-valid-anagram](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Stack
 |  |
 | ------- |
