@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0234-palindrome-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0125-valid-palindrome) |
+| [0234-palindrome-linked-list](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0876-middle-of-the-linked-list) |
 ## String Matching
@@ -87,6 +89,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0234-palindrome-linked-list](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -94,4 +97,5 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
