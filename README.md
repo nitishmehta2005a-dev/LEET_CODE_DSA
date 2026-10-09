@@ -81,11 +81,13 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0002-add-two-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -96,6 +98,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
