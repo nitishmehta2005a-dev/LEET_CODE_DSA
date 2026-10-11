@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0014-longest-common-prefix) |
 | [0238-product-of-array-except-self](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0238-product-of-array-except-self) |
 | [0875-koko-eating-bananas](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0875-koko-eating-bananas) |
@@ -48,6 +49,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0125-valid-palindrome) |
@@ -109,4 +111,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
