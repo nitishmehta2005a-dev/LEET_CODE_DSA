@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0014-longest-common-prefix) |
+| [0238-product-of-array-except-self](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0238-product-of-array-except-self) |
 | [0875-koko-eating-bananas](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0875-koko-eating-bananas) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
@@ -104,4 +105,8 @@
 | [0002-add-two-numbers](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0234-palindrome-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/nitishmehta2005a-dev/LEET_CODE_DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
